@@ -24,10 +24,10 @@ Welcome to **AI Interview Assistant** – a smart, intuitive platform designed t
 ## 🖼️ Screenshots
 
 ### Interviewee Experience
-![AI Interview Assistant - Resume Upload](screenshots/interviewee.png) <!-- Image 1: Replace with your actual image path -->
+![AI Interview Assistant - Resume Upload](screenshots/enterviewee.png) <!-- Image 1: Replace with your actual image path -->
 
 ### Interviewer Dashboard
-![AI Interview Assistant - Interviewer Dashboard](screenshots/interviewer-dashboard.png) <!-- Image 2: Replace with your actual image path -->
+![AI Interview Assistant - Interviewer Dashboard](screenshots/enterview-dashboard.png) <!-- Image 2: Replace with your actual image path -->
 
 ---
 
@@ -55,3 +55,4 @@ git clone https://github.com/Smriti1511s/AI-Powered-Interview-Assistant-intervie
 cd AI-Powered-Interview-Assistant-interview-buddy-
 npm install
 npm start
+
